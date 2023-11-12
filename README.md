@@ -1,4 +1,4 @@
-# DISCORD-C2 Server Documentation
+# DISCORD AS A COMAND AND CONTROL SERVER
 
 ## Overview
 
