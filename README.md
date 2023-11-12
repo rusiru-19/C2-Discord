@@ -27,3 +27,9 @@ DISCORD-C2 is a command and control (C2) server for Discord. It allows you to co
    git clone https://github.com/rusiru-19/C2-Discord
    cd C2-Discord
 
+### Contributing
+
+Contributions are welcome! If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
+
+
+
