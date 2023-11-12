@@ -2,4 +2,3 @@
 python based backdoor 
 
 ![alt text](image.jpg)
-
