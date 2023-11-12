@@ -24,6 +24,6 @@ DISCORD-C2 is a command and control (C2) server for Discord. It allows you to co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DISCORD-C2.git
-   cd DISCORD-C2
+   git clone https://github.com/rusiru-19/C2-Discord
+   cd C2-Discord
 
